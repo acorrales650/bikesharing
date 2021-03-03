@@ -3,7 +3,7 @@
 ## Overview of the Statistical Analysis:
 The purpose of the analysis was to look at trends and key data points from a data set of NYC CitiBike usage in August to determine the possibility of success with a similar business model in Des Moines. We analyzed usage by gender, duration, day of the week, type of consumer, and location as the main factors that could provide a better visual analysis regarding the business model.
 
-[CitiBike NYC Story](https://raw.githubusercontent.com/acorrales650/bikesharing/main/NYC%20CitiBike%20Story.twb)
+[CitiBike NYC Story](https://public.tableau.com/profile/allison4674#!/vizhome/NYCCitiBikeStory_16147467038990/NYCCitiBikeStory?publish=yes)
 
 ## Results:
 ![Dashboard](https://user-images.githubusercontent.com/73874291/109598487-39698380-7ace-11eb-8c1b-e3fb8ac85c47.png)
