@@ -28,7 +28,7 @@ This next visualization is an extension of the previous. Using the same paramete
 ![Checkout_by_Gender](https://user-images.githubusercontent.com/73874291/109598508-3ec6ce00-7ace-11eb-851c-e33cde6f8bc8.png)
 
 ### Trips by Weekday per Hour:
-The graph below shows the total number of trips by weekday and hour. The more trips that are accounted for the deeper the color is shown. From this, we can conclude that the highest demand times on the weekdays are the hours of 6:00 - 9:00am and in the evening hours between 5:00 - 7:00pm. Overall, the weekend hours remain steady throughout the hours of 10:00am - 6:00pm. 
+The graph below shows the total number of trips by weekday and hour. The more trips that are accounted for the deeper the color is shown. From this, we can conclude the main day of the week for usage is Thursdays and that the highest demand times on the weekdays are the hours of 6:00 - 9:00am and in the evening hours between 5:00 - 7:00pm. Overall, the weekend hours remain steady throughout the hours of 10:00am - 6:00pm. 
 
 ![Trips_by_Weekday](https://user-images.githubusercontent.com/73874291/109598524-44bcaf00-7ace-11eb-8bdc-fd5dc5cad452.png)
 
@@ -41,3 +41,9 @@ As a continuation of the prior graph, this collection of 3 graphs shows the usag
 In this graph, usage of trips by weekday is categorized by the type of user between 'Subscriber' and 'Customer'. From our graph, we can see that subscribers have the highest amounts of utilization. 
 
 ![Trips_by_User](https://user-images.githubusercontent.com/73874291/109598542-4a19f980-7ace-11eb-89d9-838f4021a4e0.png)
+
+
+## Summary:
+After a thorough review of our visualizations, several conclusions have become apparent. First, weekday CitiBike usage is most popular during commute hours, 6:00 - 9:00am and 5:00 - 7:00pm with Thursdays ringing in as the day of the week with the most usage. Weekends are more than likely leisure riders as the data shows steady usage throughout each weekend day. Additionally, we have learned that males are the more active CitiBike renters. 
+
+While the data that we have gathered provides a lot of useful information for the next business venture, there are a couple of additional graphs I would suggest in order to get a clearer picture. The first one I would like to take a look at might be the contract of usage in the month of August and a Winter month such as December. It's possible that rentals decrease significantly in the Winter months and that could be a significant factor for the business. Additionally, it could be beneficial to have a heat map showing the distance users are traveling from the bike locations. This could provide a better picture for the new business venture in deciding where to open the rental space. 
